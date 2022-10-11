@@ -729,3 +729,31 @@ Recommended: 516.25
 [2022.10.11-01.03.00:535][548]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
 [2022.10.11-01.03.00:538][548]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
 [2022.10.11-01.03.00:538][548]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
+[2022.10.11-01.06.07:107][196]LogProjectBrowser: Looking for projects...
+[2022.10.11-01.06.07:107][196]LogProjectBrowser: Found Engine Installation "5.0"(D:/Games/Epic Games/UE_5.0)
+[2022.10.11-01.06.07:107][196]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.0
+[2022.10.11-01.06.07:107][196]LogDesktopPlatform: Looking for directories to scan from : C:/Users/Andrew/AppData/Local/UnrealEngine/5.0/Saved/Config/WindowsEditor
+[2022.10.11-01.06.07:107][196]LogDesktopPlatform: Searching for previously created project directories...
+[2022.10.11-01.06.07:107][196]LogDesktopPlatform: Found directory: "C:/Users/Andrew/Documents/Unreal Projects"
+[2022.10.11-01.06.07:107][196]LogDesktopPlatform: Found project "(ProjectName="C:/Users/Andrew/Documents/Unreal Projects/MyFirstProject/MyFirstProject.uproject",LastOpenTime=2022.10.10-21.23.59)" in recently opened files
+[2022.10.11-01.06.07:107][196]LogDesktopPlatform: Found project "(ProjectName="C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/MyFirstProject.uproject",LastOpenTime=2022.10.11-01.01.42)" in recently opened files
+[2022.10.11-01.06.07:108][196]LogDesktopPlatform: Found project "C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/MyFirstProject.uproject" in previously created project directory
+[2022.10.11-01.06.07:108][196]LogDesktopPlatform: Found project "C:/Users/Andrew/Documents/Unreal Projects/MyFirstProject/MyFirstProject.uproject" in previously created project directory
+[2022.10.11-01.06.07:108][196]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2022.10.11-01.06.07:108][196]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2022.10.11-01.07.08:833][558]LogSlate: Window 'Open Project' being destroyed
+[2022.10.11-01.11.55:794][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.11-01.11.55:876][512]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.017012 seconds
+[2022.10.11-01.11.56:028][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M5/5STK1PLIZ0QHH5LUU90O43_Auto1
+[2022.10.11-01.11.56:028][512]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/5STK1PLIZ0QHH5LUU90O43_Auto1B6FAE006415D1D6EA89AD9A8FA421099.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M5/5STK1PLIZ0QHH5LUU90O43_Auto1.uasset'
+[2022.10.11-01.11.56:049][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.289
+[2022.10.11-01.11.56:049][512]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.289
+[2022.10.11-01.12.08:166][550]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.12.35:916][633]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.12.53:361][685]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.13.23:884][244]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.13.52:109][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.11-01.13.52:222][432]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M5/5STK1PLIZ0QHH5LUU90O43
+[2022.10.11-01.13.52:222][432]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/5STK1PLIZ0QHH5LUU90O438B737A97443F65DE61005E8B2E8B1CC6.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M5/5STK1PLIZ0QHH5LUU90O43.uasset'
+[2022.10.11-01.13.52:256][432]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
+[2022.10.11-01.13.52:257][432]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
