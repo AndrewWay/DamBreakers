@@ -758,3 +758,189 @@ Recommended: 516.25
 [2022.10.11-01.13.52:256][432]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
 [2022.10.11-01.13.52:257][432]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
 [2022.10.11-01.14.05:210][538]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.14.52:572][676]MapCheck: New page: Map Check
+[2022.10.11-01.14.52:642][676]LogSlate: Took 0.018532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.11-01.14.52:671][676]Cmd: MAP REBUILD ALLVISIBLE
+[2022.10.11-01.14.52:679][676]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.10.11-01.14.52:965][676]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=false
+[2022.10.11-01.14.57:377][676]LogSlate: Window 'Build HLODs' being destroyed
+[2022.10.11-01.14.57:397][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.11-01.14.59:237][676]LogSlate: Window 'Save Content' being destroyed
+[2022.10.11-01.14.59:301][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5
+[2022.10.11-01.14.59:302][676]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/EAHCBN229IT8APJO305AH52847589A4705956E7E77C5A4A8A64565.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset'
+[2022.10.11-01.14.59:306][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M5/5STK1PLIZ0QHH5LUU90O43
+[2022.10.11-01.14.59:308][676]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/5STK1PLIZ0QHH5LUU90O436CA5FC6447F6E3F1AEF7268AE1225A62.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M5/5STK1PLIZ0QHH5LUU90O43.uasset'
+[2022.10.11-01.14.59:310][676]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2022.10.11-01.14.59:313][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2022.10.11-01.14.59:314][676]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/R1GV431P5FDO08OFULRA01C3BFEAF541754F816101488DACA522E2.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2022.10.11-01.14.59:317][676]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2022.10.11-01.14.59:344][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.11-01.14.59:408][676]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.10.11-01.14.59:409][676]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/FirstPersonMap14905095451F413ABFECA391F663652C.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2022.10.11-01.14.59:424][676]LogFileHelpers: Saving map 'FirstPersonMap' took 0.114
+[2022.10.11-01.14.59:427][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2022.10.11-01.14.59:428][676]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/R1GV431P5FDO08OFULRA01E14BAF314686256E873DC9840FDFB671.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2022.10.11-01.14.59:433][676]LightingResults: New page: Lighting Build
+[2022.10.11-01.14.59:491][676]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.11-01.14.59:491][676]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-01.14.59:535][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-01.14.59:604][676]MapCheck: New page: Map Check
+[2022.10.11-01.14.59:604][676]LightingResults: New page: Lighting Build
+[2022.10.11-01.14.59:621][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-01.14.59:725][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.11-01.14.59:737][676]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.11-01.14.59:737][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.11-01.14.59:738][676]LogAIModule: Creating AISystem for world Untitled
+[2022.10.11-01.14.59:750][676]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.11-01.14.59:751][676]LoadErrors: New page: New Map
+[2022.10.11-01.14.59:765][676]LogWorldPartitionEditor: Display: Running commandlet: D:\Games\Epic Games\UE_5.0\Engine\Binaries\Win64\UnrealEditor.exe "C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/MyFirstProject.uproject" /Game/FirstPerson/Maps/FirstPersonMap -run=WorldPartitionBuilderCommandlet -Builder=WorldPartitionHLODsBuilder -SetupHLODs -BuildHLODs -AllowCommandletRendering -unattended
+[2022.10.11-01.16.03:694][676]LogWorldPartitionEditor: Display: #### Begin commandlet output ####
+[2022.10.11-01.15.31:664][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.11-01.15.31:664][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.11-01.15.31:789][  0]LogRHI: Warning: Running with bad GPU drivers but warning dialog will not be shown: IsUnattended=1, r.WarnOfBadDrivers=1
+[2022.10.11-01.15.31:961][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.11-01.15.32:037][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.11-01.15.32:037][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.11-01.15.32:072][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.11-01.15.32:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.11-01.15.32:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.11-01.15.32:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.11-01.15.32:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.11-01.15.32:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.11-01.15.32:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.11-01.15.32:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.11-01.15.32:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.11-01.15.32:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.11-01.15.32:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.11-01.15.32:148][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.11-01.15.32:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.11-01.15.32:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.11-01.15.32:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.11-01.15.32:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.11-01.15.32:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.11-01.15.32:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.11-01.15.32:191][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.11-01.15.32:261][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.11-01.15.32:690][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.11-01.15.32:690][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.11-01.15.32:690][  0]LogShaderCompilers: Display: Compiling shader autogen file: C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.11-01.15.32:690][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.11-01.15.32:764][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.11-01.15.32:780][  0]LogDerivedDataCache: Display: Performance to C:/Users/Andrew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=158.22MBs, RandomWriteSpeed=102.56MBs. Assigned SpeedClass 'Local'
+[2022.10.11-01.15.32:795][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.10.11-01.15.37:558][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.11-01.15.37:890][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.10.11-01.15.38:381][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.11-01.15.38:430][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.11-01.15.44:581][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-01.15.44:581][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-01.15.44:582][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.11-01.15.46:077][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-01.15.46:077][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-01.15.47:667][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.11-01.15.48:746][  0]LogWorldPartitionBuilderCommandlet: Display: Execution started...
+[2022.10.11-01.15.49:067][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.11-01.15.49:384][  0]LogWorldPartition: Display: WorldPartition initialize took 316 ms
+[2022.10.11-01.15.49:534][  0]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.11-01.15.49:534][  0]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.11-01.15.49:534][  0]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.11-01.15.49:535][  0]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.11-01.15.49:535][  0]LogWorldPartition: Display: GetPartitionedActors took 576 us
+[2022.10.11-01.15.49:675][  0]LogWorldPartitionHLODsBuilder: Display: #### World HLOD actors ####
+[2022.10.11-01.15.49:680][  0]LogWorldPartitionHLODsBuilder: Display: #### World contains 0 HLOD actors ####
+[2022.10.11-01.15.49:681][  0]LogWorldPartitionHLODsBuilder: Display: #### Building 0 HLOD actors ####
+[2022.10.11-01.15.49:682][  0]LogWorldPartitionHLODsBuilder: Display: #### Built 0 HLOD actors ####
+[2022.10.11-01.15.49:710][  0]LogWorldPartitionBuilderCommandlet: Display: Execution took 963 ms
+[2022.10.11-01.15.49:711][  0]LogInit: Display: 
+[2022.10.11-01.15.49:711][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2022.10.11-01.15.49:720][  0]LogInit: Display: -----------------------------------
+[2022.10.11-01.15.49:720][  0]LogInit: Display: LogRHI: Warning: Running with bad GPU drivers but warning dialog will not be shown: IsUnattended=1, r.WarnOfBadDrivers=1
+[2022.10.11-01.15.49:720][  0]LogInit: Display: LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.11-01.15.49:720][  0]LogInit: Display: 
+[2022.10.11-01.15.49:720][  0]LogInit: Display: Success - 0 error(s), 2 warning(s)
+[2022.10.11-01.15.49:720][  0]LogInit: Display: 
+Execution of commandlet took:  0.99 seconds
+[2022.10.11-01.15.54:804][  0]LogShaderCompilers: Display: ================================================
+[2022.10.11-01.15.54:804][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.11-01.15.54:804][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.11-01.15.54:804][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.11-01.15.54:804][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2022.10.11-01.15.54:804][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.11-01.15.54:805][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.11-01.15.54:805][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.11-01.15.54:805][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.11-01.15.54:805][  0]LogShaderCompilers: Display: ================================================
+[2022.10.11-01.15.54:835][  0]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.11-01.15.58:972][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: 3 items to release
+[2022.10.11-01.15.58:973][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.10.11-01.15.58:974][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.10.11-01.15.58:974][  0]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+
+[2022.10.11-01.16.03:694][676]LogWorldPartitionEditor: Display: #### End commandlet output ####
+[2022.10.11-01.16.03:713][676]Cmd: MAP LOAD FILE="C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.11-01.16.03:714][676]LightingResults: New page: Lighting Build
+[2022.10.11-01.16.03:714][676]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2022.10.11-01.16.03:715][676]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-01.16.03:715][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-01.16.03:715][676]MapCheck: New page: Map Check
+[2022.10.11-01.16.03:715][676]LightingResults: New page: Lighting Build
+[2022.10.11-01.16.03:830][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-01.16.03:831][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.11-01.16.03:840][676]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.10.11-01.16.03:840][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.11-01.16.03:840][676]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.10.11-01.16.03:841][676]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.11-01.16.03:841][676]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.11-01.16.03:886][676]LogWorldPartition: Display: WorldPartition initialize took 45 ms
+[2022.10.11-01.16.04:121][676]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.11-01.16.04:137][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.11-01.16.04:147][676]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.11-01.16.04:147][676]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.314ms to complete.
+[2022.10.11-01.16.04:147][676]LogFileHelpers: Loading map 'FirstPersonMap' took 0.434
+[2022.10.11-01.16.04:161][676]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.10.11-01.16.04:169][676]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.10.11-01.16.04:169][676]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.10.11-01.16.04:189][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.11-01.16.04:716][676]LogLevel: Display: Export Material TexCoord Scales took 0.496 seconds.
+[2022.10.11-01.16.04:734][676]TextureStreamingBuild: Display: Build Texture Streaming took 0.002 seconds.
+[2022.10.11-01.16.04:742][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.11-01.16.04:811][676]LightingResults: New page: Lighting Build - Oct. 10, 2022, 8:16:04 p.m.
+[2022.10.11-01.16.04:821][676]LogStaticLightingSystem: Warning: WorldSettings.bForceNoPrecomputedLighting is true, Skipping Lighting Build!
+[2022.10.11-01.16.04:847][676]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.10.11-01.16.04:847][676]MapCheck: New page: FirstPersonMap - Oct. 10, 2022, 8:16:04 p.m.
+[2022.10.11-01.16.05:008][676]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 161.089ms to complete.
+[2022.10.11-01.16.05:016][676]LogEditorBuildUtils: Build time 1:12
+[2022.10.11-01.16.05:114][676]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.11-01.16.05:114][676]LogContentValidation: Display: Validating PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+[2022.10.11-01.16.05:114][676]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
+[2022.10.11-01.16.05:114][676]LogContentValidation: Display: Validating BP_Rifle_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1
+[2022.10.11-01.16.05:114][676]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2022.10.11-01.16.26:517][396]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.16.41:641][441]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.16.52:636][474]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.17.09:981][526]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.17.50:660][648]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.18.06:343][695]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.18.34:697][780]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.19.00:125][856]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.19.30:479][947]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.20.06:818][ 56]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.20.51:738][333]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.21.19:653][515]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.21.47:355][598]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.22.28:405][721]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.22.57:110][807]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.23.12:112][852]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.23.39:451][934]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.10.11-01.24.06:128][ 14]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
