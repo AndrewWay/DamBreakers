@@ -757,3 +757,4 @@ Recommended: 516.25
 [2022.10.11-01.13.52:222][432]LogSavePackage: Moving 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Saved/5STK1PLIZ0QHH5LUU90O438B737A97443F65DE61005E8B2E8B1CC6.tmp' to 'C:/Users/Andrew/Documents/Unreal Projects/DamBreakers/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/M5/5STK1PLIZ0QHH5LUU90O43.uasset'
 [2022.10.11-01.13.52:256][432]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
 [2022.10.11-01.13.52:257][432]LogContentValidation: Display: Validating StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_10C37B95136AB33E01_2080083135
+[2022.10.11-01.14.05:210][538]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
